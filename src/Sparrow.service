@@ -1,0 +1,8 @@
+[Unit]
+Description=Sparrow: Automated drone rally points
+After=mavlink-router
+[Service]
+ExecStartPre=/bin/sleep 2
+ExecStart=/usr/bin/Sparrow
+[Install]
+WantedBy=multi-user.target

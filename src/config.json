@@ -1,0 +1,22 @@
+[
+    {
+        "targetID" : 4,
+        "ip": "127.0.0.1",
+        "port" : 5760,
+        "rallyPoints" :
+            [
+                {
+                    "Latitude" : 37.1965355,
+                    "Longitude" : -80.5780751
+                },
+                {
+                    "Latitude" : 37.19655650,
+                    "Longitude" : -80.5778265
+                },
+                {
+                    "Latitude" : 37.1967536,
+                    "Longitude" : -80.5779000
+                }
+            ]
+    }
+]
